@@ -1,4 +1,4 @@
-Config = Config or {}
+Config = {}
 
 Config.BannedRatio = { --If you want to add a banned Radio just add here the ratio you want like: ["GetAspectRatio()"] = "Label of aspect ratio"
     ["1.25"] = "5/4", -- 5:4
